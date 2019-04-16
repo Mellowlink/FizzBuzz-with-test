@@ -1,0 +1,6 @@
+C:\Users\Jeremy\Documents\Git\FizzBuzz-with-Test\FizzBuzz-with-Test\bin\Debug\FizzBuzz-with-Test.exe.config
+C:\Users\Jeremy\Documents\Git\FizzBuzz-with-Test\FizzBuzz-with-Test\bin\Debug\FizzBuzz-with-Test.exe
+C:\Users\Jeremy\Documents\Git\FizzBuzz-with-Test\FizzBuzz-with-Test\bin\Debug\FizzBuzz-with-Test.pdb
+C:\Users\Jeremy\Documents\Git\FizzBuzz-with-Test\FizzBuzz-with-Test\obj\Debug\FizzBuzz-with-Test.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\Git\FizzBuzz-with-Test\FizzBuzz-with-Test\obj\Debug\FizzBuzz-with-Test.exe
+C:\Users\Jeremy\Documents\Git\FizzBuzz-with-Test\FizzBuzz-with-Test\obj\Debug\FizzBuzz-with-Test.pdb
